@@ -7,8 +7,8 @@ database.py
 requirements.txt
 requests
 aiogramsaiograrequests
-requestsBOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-NOWPAY_API_KEY = "YOUR_NOWPAYMENTS_API_KEY"
+requestsBOT_TOKEN = "8640716147:AAG_Jwq7zsF066rYCuG4SLslC0JiJ0NA12I"
+NOWPAY_API_KEY = "3xj1ETEP3jE1iK/NveGO/avyJAulFNaB"
 
 ADMIN_ID = 123456789
 
