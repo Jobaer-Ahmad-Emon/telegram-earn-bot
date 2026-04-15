@@ -127,3 +127,7 @@ def webhook():
     return "OK"
 
 app.run(host="0.0.0.0", port=10000)
+requirements.txt
+aiogram
+flask
+requests
